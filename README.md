@@ -48,8 +48,8 @@
 <h2>📦 Available Scripts</h2>
 
 <p>• <strong>npm run dev</strong> → Runs the development server<br>
-• <strong>npm run build</strong> → Builds the app for production</p>
-
+• <strong>npm run build</strong> → Builds the app for production<br>
+• <strong>npm start</strong> → Runs the built app in production</p>
 
 
 
